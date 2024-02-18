@@ -16,6 +16,10 @@ A doubly circular linked list in Linux 32-bit assembly is a data structure where
 - Traversal and Search: Traversing the list involves following the next or previous pointers from one node to another until the entire list is traversed. Searching for a specific element in the list can be done by iterating through the nodes and comparing the stored data with the target element.
 
 
+## Vedio
+
+https://github.com/HansikaNemade/Linux_assembly/assets/103547922/80ba7644-e375-4f7c-a651-f87ac5e4ec0f
+
 
 ## Acknowledgements
 
